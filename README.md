@@ -8,8 +8,9 @@
 Official PyTorch implementation of the paper:
 
 > **REACT: Relaxed Efficient Acquisition of Context and Temporal Features**  
-> Accepted as a full paper at ACM BCB 2026  
-> [https://arxiv.org/abs/2603.11370](https://arxiv.org/abs/2603.11370)
+> Accepted as a full paper at ACM BCB 2026
+> 
+> [ACM Digital Libaray](https://dl.acm.org/doi/10.1145/3807503.3819475)
 
 ---
 
@@ -236,14 +237,12 @@ python main.py --data cheears_demog --cw 0.01 --acw 0.001 --joint
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{react2026,
-  title         = {REACT: Relaxed Efficient Acquisition of Context and Temporal Features},
-  author        = {Qu, Yunni and Dinh, Dzung and King, Grant and Ringwald, Whitney and Kok, Bing Cai and Gates, Kathleen and Wright, Aidan and Oliva, Junier},
-  year          = {2026},
-  eprint        = {2603.11370},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.LG},
-  url           = {https://arxiv.org/abs/2603.11370},
+@article{Qu2026RelaxedEA,
+  title={Relaxed Efficient Acquisition of Context and Temporal Features},
+  author={Yunni Qu and Dzung Dinh and G. R. Gnana King and Whitney R. Ringwald and Bing Cai Kok and Kathleen Gates and Aidan G. C. Wright and Junier Oliva},
+  journal={Proceedings of the 17th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
+  year={2026},
+  url={https://api.semanticscholar.org/CorpusID:286489367}
 }
 ```
 
