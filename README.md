@@ -237,12 +237,17 @@ python main.py --data cheears_demog --cw 0.01 --acw 0.001 --joint
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{Qu2026RelaxedEA,
-  title={Relaxed Efficient Acquisition of Context and Temporal Features},
-  author={Yunni Qu and Dzung Dinh and G. R. Gnana King and Whitney R. Ringwald and Bing Cai Kok and Kathleen Gates and Aidan G. C. Wright and Junier Oliva},
-  journal={Proceedings of the 17th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
-  year={2026},
-  url={https://api.semanticscholar.org/CorpusID:286489367}
+@inbook{10.1145/3807503.3819475,
+author = {Qu, Yunni and Dinh, Dzung and King, Grant and Ringwald, Whitney and Kok, Bing Cai and Gates, Kathleen and Wright, Aidan and Oliva, Junier},
+title = {Relaxed Efficient Acquisition of Context and Temporal Features},
+year = {2026},
+isbn = {9798400726538},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3807503.3819475},
+booktitle = {Proceedings of the 17th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
+articleno = {15},
+numpages = {10}
 }
 ```
 
